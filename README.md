@@ -1,8 +1,8 @@
 # Beach-Management
 Guide people coming to the beach by clicking on the sun loungers they want.
 
-<img src="https://github.com/tarikbyzt/Fat-To-Fart/blob/main/Fat-To-Fart/Photos/Fat-To-Fart.gif" width="250">
-
+<img src="https://github.com/tarikbyzt/Beach-Management/blob/main/Beach%20Management/beach1.png" width="250">
+<img src="https://github.com/tarikbyzt/Beach-Management/blob/main/Beach%20Management/beach2.gif" width="250">
 
 
 <h2>🤙Contact</h2>
